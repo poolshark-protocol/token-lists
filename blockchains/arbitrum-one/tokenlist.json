@@ -87,6 +87,18 @@
     ],
     "search_tokens": [
         {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1675455518,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },
+        {
             "name": "Poolshark",
             "symbol": "FIN",
             "id": "0x903ca00944d0b51e50d9f4fc96167c89f211542a",
@@ -187,7 +199,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1675455518,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "name": "Graph Token",
@@ -5016,18 +5028,6 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 64.42,
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39/logo.png"
-        },
-        {
-            "name": "Firepot Token",
-            "symbol": "HOTT",
-            "id": "0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B",
-            "decimals": 18,
-            "coingecko_url": "https://www.coingecko.com/en/coins/firepot-finance",
-            "market_cap_usd": 0.0,
-            "market_cap_rank": null,
-            "24_hr_volume_usd": 60.96,
-            "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B/logo.png"
         },
         {
             "name": "ZENF Token",
