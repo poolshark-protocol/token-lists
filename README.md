@@ -1,4 +1,4 @@
-# Poolshark Token Lists
+# Token Lists
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
