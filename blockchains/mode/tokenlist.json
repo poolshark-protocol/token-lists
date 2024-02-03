@@ -138,6 +138,61 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        },
+        {
+            "name": "Ionic Wrapped Ether",
+            "symbol": "ionWETH",
+            "id": "0x71ef7EDa2Be775E5A7aa8afD02C45F059833e9d2",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x71ef7EDa2Be775E5A7aa8afD02C45F059833e9d2/logo.png"
+        },
+        {
+            "name": "Ionic Tether USD",
+            "symbol": "ionWETH",
+            "id": "0x94812F2eEa03A49869f95e1b5868C6f3206ee3D3",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x94812F2eEa03A49869f95e1b5868C6f3206ee3D3/logo.png"
+        },
+        {
+            "name": "Ionic USD Coin",
+            "symbol": "ionUSDC",
+            "id": "0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038/logo.png"
+        },
+        {
+            "name": "Ionic Wrapped Bitcoin",
+            "symbol": "ionWBTC",
+            "id": "0xd70254C3baD29504789714A7c69d60Ec1127375C",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0xd70254C3baD29504789714A7c69d60Ec1127375C/logo.png"
+        }
+        {
+            "name": "Mode Inu",
+            "symbol": "MINU",
+            "id": "0x76ba9dbf6EEC1C56C3028891152834e428cdD859",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x76ba9dbf6EEC1C56C3028891152834e428cdD859/logo.webp"
         }
     ]
 }
