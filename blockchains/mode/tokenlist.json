@@ -13,7 +13,7 @@
             "market_cap_usd": 9610528460,
             "market_cap_rank": 22,
             "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-lists/master/blockchains/ethereum/logo.png"
         },
         {
             "name": "Wrapped Ether",
@@ -24,7 +24,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "name": "USD Coin",
@@ -35,7 +35,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1722923,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
         },
         {
             "name": "Tether USD",
@@ -46,7 +46,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 586051,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
         },
         {
             "name": "Dai Stablecoin",
@@ -68,7 +68,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
         }
     ],
     "search_tokens": [
@@ -82,7 +82,7 @@
             "market_cap_usd": 9610528460,
             "market_cap_rank": 22,
             "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-lists/master/blockchains/ethereum/logo.png"
         },
         {
             "name": "Wrapped Ether",
@@ -93,7 +93,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "name": "USD Coin",
@@ -104,7 +104,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1722923,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
         },
         {
             "name": "Tether USD",
@@ -115,7 +115,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 586051,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
         },
         {
             "name": "Dai Stablecoin",
@@ -137,7 +137,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
         },
         {
             "name": "Ionic Wrapped Ether",
@@ -148,7 +148,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x71ef7EDa2Be775E5A7aa8afD02C45F059833e9d2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0x71ef7EDa2Be775E5A7aa8afD02C45F059833e9d2/logo.png"
         },
         {
             "name": "Ionic Tether USD",
@@ -159,7 +159,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x94812F2eEa03A49869f95e1b5868C6f3206ee3D3/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0x94812F2eEa03A49869f95e1b5868C6f3206ee3D3/logo.png"
         },
         {
             "name": "Ionic USD Coin",
@@ -170,7 +170,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038/logo.png"
         },
         {
             "name": "Ionic Wrapped Bitcoin",
@@ -181,7 +181,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0xd70254C3baD29504789714A7c69d60Ec1127375C/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0xd70254C3baD29504789714A7c69d60Ec1127375C/logo.png"
         },
         {
             "name": "Mode Inu",
@@ -192,7 +192,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x76ba9dbf6EEC1C56C3028891152834e428cdD859/logo.webp"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0x76ba9dbf6EEC1C56C3028891152834e428cdD859/logo.webp"
         },
         {
             "name": "James Ross",
@@ -203,7 +203,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/mode/assets/0x0512C6419039a067837EA66dFAE92B4e1e2d1A89/logo.jpg"
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-lists/master/blockchains/mode/assets/0x0512C6419039a067837EA66dFAE92B4e1e2d1A89/logo.jpg"
         }
     ]
 }
