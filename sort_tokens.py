@@ -3,7 +3,7 @@ import json
 from operator import itemgetter
 from datetime import datetime
 
-# TODO: https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png
+# TODO: https://poolshark-token-lists.s3.amazonaws.com/blockchains/ethereum/assets/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png
 # make background transparent for all images
 
 supported_chains = ['arbitrum-one']

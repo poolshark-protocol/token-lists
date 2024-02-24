@@ -7,5 +7,5 @@
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 594549,
-    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747/logo.png"
+    "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/scroll/assets/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747/logo.png"
 }
