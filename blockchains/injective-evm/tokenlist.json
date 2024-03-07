@@ -6,7 +6,7 @@
         {
             "name": "Injective",
             "symbol": "INJ",
-            "id": "0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd",
+            "id": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf",
             "decimals": 18,
             "native": true,
             "coingecko_url": "https://www.coingecko.com/en/coins/injective",
@@ -18,13 +18,13 @@
         {
             "name": "Wrapped Injective",
             "symbol": "WINJ",
-            "id": "0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd",
+            "id": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/injective",
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/injective-evm/assets/0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd/logo.png"
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/injective-evm/assets/0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf/logo.png"
         },
         {
             "name": "USD Coin",
@@ -53,7 +53,7 @@
         {
             "name": "Injective",
             "symbol": "INJ",
-            "id": "0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd",
+            "id": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf",
             "decimals": 18,
             "native": true,
             "coingecko_url": "https://www.coingecko.com/en/coins/injective",
@@ -65,13 +65,13 @@
         {
             "name": "Wrapped Injective",
             "symbol": "WINJ",
-            "id": "0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd",
+            "id": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/injective",
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/injective-evm/assets/0x4c3a213bd5e8c4bd70a8396d6f3c8302571598cd/logo.png"
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/injective-evm/assets/0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf/logo.png"
         },
         {
             "name": "USD Coin",
