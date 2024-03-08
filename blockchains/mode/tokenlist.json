@@ -65,6 +65,20 @@
             "id": "0x2416092f143378750bb29b79eD961ab195CcEea5",
             "decimals": 18,
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.webp"
+        },
+        {
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "id": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5/logo.webp"
+        },
+        {
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "id": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C/logo.svg"
         }
     ],
     "search_tokens": [
@@ -141,6 +155,20 @@
             "id": "0x2416092f143378750bb29b79eD961ab195CcEea5",
             "decimals": 18,
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.webp"
+        },
+        {
+            "name": "Wrapped eETH",
+            "symbol": "weETH",
+            "id": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5/logo.webp"
+        },
+        {
+            "name": "Ankr Staked ETH",
+            "symbol": "ankrETH",
+            "id": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C/logo.svg"
         },
         {
             "name": "Ionic Wrapped Ether",
