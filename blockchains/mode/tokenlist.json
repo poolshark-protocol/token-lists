@@ -161,7 +161,7 @@
             "symbol": "weETH",
             "id": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
             "decimals": 18,
-            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5/logo.webp"
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5/logo.svg"
         },
         {
             "name": "Ankr Staked ETH",
