@@ -58,6 +58,13 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        },
+        {
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
+            "id": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.png"
         }
     ],
     "search_tokens": [
@@ -127,6 +134,13 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 37160,
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        },
+        {
+            "name": "Renzo Restaked ETH",
+            "symbol": "ezETH",
+            "id": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "decimals": 18,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/mode/assets/0x2416092f143378750bb29b79eD961ab195CcEea5/logo.png"
         },
         {
             "name": "Ionic Wrapped Ether",
