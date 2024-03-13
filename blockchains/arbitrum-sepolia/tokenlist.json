@@ -40,6 +40,17 @@
         {
             "name": "Poolshark",
             "symbol": "FIN",
+            "id": "0xbfc8300da2cf7d487690267f5867c7fc0f8c2b20",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
+        },
+        {
+            "name": "Poolshark Test",
+            "symbol": "testFIN",
             "id": "0xcd453b942f35adf0364d89c05a892518825c1c3b",
             "decimals": 18,
             "coingecko_url": "",
@@ -87,7 +98,7 @@
         {
             "name": "Poolshark",
             "symbol": "FIN",
-            "id": "0xcd453b942f35adf0364d89c05a892518825c1c3b",
+            "id": "0xbfc8300da2cf7d487690267f5867c7fc0f8c2b20",
             "decimals": 18,
             "coingecko_url": "",
             "market_cap_usd": 0.0,
