@@ -49,6 +49,17 @@
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
         },
         {
+            "name": "Poolshark",
+            "symbol": "FIN",
+            "id": "0x4e3323f51476d8df7c675f5db982029cfc7fcfcf",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
+        },
+        {
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "id": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
@@ -126,6 +137,17 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 586051,
             "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+            "name": "Poolshark",
+            "symbol": "FIN",
+            "id": "0x4e3323f51476d8df7c675f5db982029cfc7fcfcf",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://poolshark-token-lists.s3.amazonaws.com/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
         },
         {
             "name": "Dai Stablecoin",
